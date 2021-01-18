@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1583422524 source:c:\users\mahmo\onedrive\documents\datastructure\main.c
+	<stdio.h>
+	<stdlib.h>
+	"StackBaseArray.h"
+	"QueuesBasedArray.h"
+
+1581367653 source:c:\users\mahmo\onedrive\documents\datastructure\stackbaselinkedlist.c
+
+1582288859 c:\users\mahmo\onedrive\documents\datastructure\stackbasearray.h
+
+1582288827 source:c:\users\mahmo\onedrive\documents\datastructure\stackbasearray.c
+	"StackBaseArray.h"
+
+1582361969 source:c:\users\mahmo\onedrive\documents\datastructure\queuesbasedarray.c
+	"QueuesBasedArray.h"
+
+1582361957 c:\users\mahmo\onedrive\documents\datastructure\queuesbasedarray.h
+
+1583422480 source:c:\users\mahmo\onedrive\documents\datastructure\queuesbasedlinkedlist.c
+	"QueuesBasedLinkedList.h"
+
+1583421880 c:\users\mahmo\onedrive\documents\datastructure\queuesbasedlinkedlist.h
+
+1583422524 source:e:\embedded by me\datastructure\main.c
+	<stdio.h>
+	<stdlib.h>
+	"StackBaseArray.h"
+	"QueuesBasedArray.h"
+
+1582288859 e:\embedded by me\datastructure\stackbasearray.h
+
+1582361957 e:\embedded by me\datastructure\queuesbasedarray.h
+
+1582361969 source:e:\embedded by me\datastructure\queuesbasedarray.c
+	"QueuesBasedArray.h"
+
+1583492188 source:e:\embedded by me\datastructure\queuesbasedlinkedlist.c
+	"QueuesBasedLinkedList.h"
+	<stdlib.h>
+
+1583492219 e:\embedded by me\datastructure\queuesbasedlinkedlist.h
+
+1582288827 source:e:\embedded by me\datastructure\stackbasearray.c
+	"StackBaseArray.h"
+
+1581367653 source:e:\embedded by me\datastructure\stackbaselinkedlist.c
+
+1588262579 source:e:\embedded by me\datastructure\listbasedarray.c
+
